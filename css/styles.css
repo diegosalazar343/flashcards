@@ -1,5 +1,8 @@
 .hidden {
   display: none;
+  background-color: #e3fcff;
+  padding: 10px;
+  border-radius: 8px;
 }
 .card {
   border: 0px;
